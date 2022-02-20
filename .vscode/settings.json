@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/youngin/Downloads/java-bubble-game-v2-master/lib/lombok.jar",
+        "/Users/youngin/Downloads/gson-2.8.5.jar",
+        "/Users/youngin/Downloads/java-sdk-2.2-http-cv52/lib/json-simple-1.1.1.jar"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -javaagent:\"/Users/youngin/.vscode/extensions/gabrielbb.vscode-lombok-1.0.1/server/lombok.jar\"",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MariaDB",
+            "name": "Connection",
+            "username": "youngin",
+            "database": "PCR"
+        }
+    ]
+}

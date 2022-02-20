@@ -1,0 +1,1 @@
+INSERT INTO hospital(addr, mgtStaDd, pcrPsblYn, ratPsblYn, recuClCd, rprtWorpClicFndtTgtYn, sgguCdNm, sidoCdNm, telno, XPosWgs84, YPosWgs84, yadmNm, ykihoEnc) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?
